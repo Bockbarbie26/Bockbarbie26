@@ -3,6 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bockbarbie26&label=Profile%20views&color=0e75b6&style=flat" alt="bockbarbie26" /> </p>
 
 - 🌱 I’m currently learning **ReactJS**
+-  I'm also interested in **Testing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
